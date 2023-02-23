@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bgcontainer {
+    background-color: black;
+    background-size: cover;
+}
+
+.namesteve{
+    color: white;
+    font-family: 'serif';
+    font-size: 35px;
+}
+
+.birthday{
+    color: white;
+    font-size: 20px;
+    font-family: 'serif';
+}
+
+.iconcolor {
+    color: white;
+    font-size: 20px;
+}
+
+.card001 {
+    background-color: white;
+    height: 35%;
+    width: 100%;
+}
+
+.para2 {
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    width: 350px;
+    margin-right: 200px;
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.steve-img {
+    height: 100%;
+    width: 35%;
+}
+
+.bio-para {
+    color: white;
+    font-size: 20px;
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+.card002 {
+    text-align: center;
+}
+
+.hoz-line {
+    width: 70%;
+    border-color: grey;
+    border-width: 2px;
+    border-radius: 0px;
+}
+
+.last-line {
+    color: white;
+}
